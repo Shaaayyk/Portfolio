@@ -11,9 +11,8 @@ import web5 from "../public/web5.png";
 import web6 from "../public/web6.png";
 import Header from '../components/Header'
 import { useState } from "react";
-import HeroInfo from "@/components/HeroInfo";
-import Social from "@/components/Social";
-import HeroImage from "@/components/HeroImage";
+import HeroInfo from "../components/HeroInfo";
+import HeroImage from "../components/HeroImage";
 
 export default function Home() {
   const [darkMode, setDarkMode] = useState(false);
