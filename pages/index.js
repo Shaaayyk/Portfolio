@@ -29,7 +29,7 @@ export default function Home() {
       </Head>
       <main className="bg-white px-10 md:px-20 lg:px-40 dark:bg-gray-900">
         <section className="min-h-screen">
-          <Header setDarkMode={setDarkMode} darkMode={darkMode} />
+          <Header setDarkMode={setDarkMode} />
           <HeroInfo />
           <HeroImage />
         </section>
