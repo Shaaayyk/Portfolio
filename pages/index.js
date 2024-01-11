@@ -14,6 +14,7 @@ import HeroImage from "../components/HeroImage";
 import Services from "../components/Services";
 import ServiceCardWrapper from "../components/ServiceCardWrapper";
 import Portfolio from "../components/Portfolio";
+import Footer from "../components/Footer";
 
 import { useState } from "react";
 
@@ -96,6 +97,7 @@ export default function Home() {
             </div>
           </div>
         </section>
+        <Footer />
       </main>
     </div>
   );
