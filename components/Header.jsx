@@ -15,7 +15,7 @@ export default function Header({setDarkMode}) {
           <a
             target="_blank"
             className="bg-gradient-to-r from-cyan-500 to-teal-500 bg-cyan-500 text-white px-4 py-2 rounded-md ml-8 border-none"
-            href="https://drive.google.com/file/d/1EfeQHDD_c58ScIQNFXj6roPPIW08HLpi/view?usp=sharing"
+            href="https://drive.google.com/file/d/1VZg1ZCCi_iIcjFe2wrj5U-MwNtirX6yG/view?usp=sharing"
           >
             Resume
           </a>
